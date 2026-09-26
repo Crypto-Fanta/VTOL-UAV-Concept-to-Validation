@@ -4,3 +4,4 @@
 4. Distance measurement technique in hemispherical area for indoor vertical take-off and landing unmanned aerial vehicle(https://ieeexplore.ieee.org/abstract/document/6865895)
 5. Enhanced Vision-Based Obstacle Sensing During UAM Approach and Landing Operations(https://ieeexplore.ieee.org/abstract/document/11257317)
 6. Conceptual design of a fixed wing vertical take-off and landing unmanned aerial vehicle(https://www.researchgate.net/publication/351569758_Conceptual_design_of_a_fixed_wing_vertical_take-off_and_landing_unmanned_aerial_vehicle)
+7. Simulation of Finite Wing Flow and Determination of Induced Drag with Ansys-Fluent(https://www.researchgate.net/profile/Mohan-Pannirselvam-2/publication/344446159_Simulation_of_Finite_Wing_Flow_and_Determination_of_Induced_Drag_with_Ansys-Fluent/links/5f7652ed92851c14bca78d28/Simulation-of-Finite-Wing-Flow-and-Determination-of-Induced-Drag-with-Ansys-Fluent.pdf)
